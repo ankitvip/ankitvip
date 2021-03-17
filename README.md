@@ -13,7 +13,7 @@
 
 <a href="https://www.linkedin.com/in/ankit-sharma-06427b1a1/"><img src="https://media.licdn.com/dms/image/C510BAQEzckjsySdXVw/company-logo_100_100/0?e=2159024400&v=beta&t=L0i_bLOuW3liVxqMGWTTLFcfA7g9j8VAWtg88UfR2b8" width="40" /></a>
 <a href="https://github.com/ankitvip"><img src="https://iconsetc.com/icons-watermarks/flat-square-white-on-black/foundation/foundation_social-github/foundation_social-github_flat-square-white-on-black_512x512.png" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100009381602165"><img src="https://i.pinimg.com/originals/30/99/af/3099aff4115ee20f43e3cdad04f59c48.png" width="40" /></a>
+<a href=""><img src="https://i.pinimg.com/originals/30/99/af/3099aff4115ee20f43e3cdad04f59c48.png" width="40" /></a>
 <a href="https://twitter.com/as71704"><img src="https://www.buckinghamcovers.com/uploads/images/twitter_PNG34.png" width="40" /></a>
 <a href="https://www.instagram.com/ankit_sharma_4318/"><img src="https://store-images.s-microsoft.com/image/apps.58521.13510798887167234.713cc0e4-e4a7-4f7c-8cde-9c6a53872b1d.539a5fdf-76a3-486f-bb0f-d2dce82923cc?mode=scale&q=90&h=200&w=200&background=%230078D7" width="40" /></a>
 <br>
