@@ -3,8 +3,8 @@
             <img src="https://komarev.com/ghpvc/?username=shubh-151">
         </a>
 
- I’m learning backend development
- I’m looking to collaborate with other content creators
+ I’m learning backend development,
+ I’m looking to collaborate with other content creators,
  2021 Goals: Contribute more to Open Source projects
   
 
