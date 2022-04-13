@@ -21,8 +21,9 @@
 <h1>Languages and Tools:</h1>
 <h2>Programming Langauge:-</h2>
 <ul>
-            <li>C,html,javascript,DBMS,</li>
-            <li>Python</li>
+            <li>C,html,javascript</li>
+            <li>Python,C#,.NET</li>
+            <li>SQL,MYSQL</li>
           
 </ul>
 
