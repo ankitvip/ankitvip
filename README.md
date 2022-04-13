@@ -3,9 +3,9 @@
             <img src="https://komarev.com/ghpvc/?username=shubh-151">
         </a>
 
- I’m Working backend development,
- I’m looking to collaborate with other content creators,
- 2022 Goals: Contribute more to Open Source projects
+ <li>I’m Working backend development,</li>
+ <li>I’m looking to collaborate with other content creators,</li>
+ <li>2022 Goals: Contribute more to Open Source projects</li>
   
 
 
