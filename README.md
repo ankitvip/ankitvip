@@ -18,6 +18,12 @@
             <li>C#,ASP.NET MVC,ASP.NET CORE,WEB API</li>
             <li>SQL,MYSQL,PYTHON</li>    
 </ul>
+<h2>Tools:-</h2>
+<ul>
+            <li>Visual Studio 2019,Visual Studio 2022 </li>
+            <li>Microsoft SQL Server 2019</li>
+            <li>Spyder</li>    
+</ul>
  <h1>Coding Profile</h1>
  <a href="https://www.hackerrank.com/as71704"><img src="https://info.hackerrank.com/rs/487-WAY-049/images/Podcast-ChannelCover-Final.jpg" width="40" /></a>
  <a href="https://auth.geeksforgeeks.org/edit-profile.php"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" width="40"></a>
