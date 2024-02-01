@@ -14,7 +14,7 @@
 <h1>Languages and Tools:</h1>
 <h2>Programming Langauge:-</h2>
 <ul>
-            <li>HTML,CSS,JAVASCRIPT</li>
+            <li>HTML,CSS,JAVASCRIPT,Reactjs</li>
             <li>C#,ASP.NET MVC,ASP.NET CORE,WEB API</li>
             <li>SQL,MYSQL,PYTHON</li>    
 </ul>
