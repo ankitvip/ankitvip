@@ -21,7 +21,7 @@
 <h2>Tools:-</h2>
 <ul>
             <li>Visual Studio 2019,Visual Studio 2022 </li>
-            <li>Microsoft SQL Server 2019</li>
+            <li>Microsoft SQL Server 2019 & MYSQL</li>
             <li>Spyder</li>    
 </ul>
  <h1>Coding Profile</h1>
