@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="4%"></h1>
 
 <a href="https://github.com/ankitvip" target="_blank">
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="max-width: 100%; display: inline-block;" alt="GitHub Profile">
+   
 </a>
 
 <ul>
