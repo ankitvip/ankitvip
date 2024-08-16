@@ -1,8 +1,7 @@
 <h1> Hi there , I'm <a href="www.linkedin.com/in/ankit-sharma-06427b1a1">Ankit sharma 
             <a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="4%"></a></h1>
            <a href="https://github.com/ankitvip">
-<!--            <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" 
-           <img src="https://camo.githubusercontent.com/5345b2854593049615eb11092b44d088a23da7816e05f830efcc35eeadf5efb5/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73687562682d313531" data-canonical-src="https://komarev.com/ghpvc/?username=shubh-151" style="max-width: 100%;"></a> -->
+          <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" data-canonical-src="https://komarev.com/ghpvc/?username=shubh-151" style="max-width: 100%;"></a> -->
  <li>🌱 I’m Working Software Developer at softage information technology</li>
  <li>💬 I am currently learning ReactJS & JavaScript</li>
  <li>📫How to reach me71704@gmail.com</li>
