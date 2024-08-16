@@ -4,107 +4,55 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ankit Sharma | Portfolio</title>
-    <style>
-        :root {
-            --primary-color: #333;
-            --secondary-color: #666;
-            --accent-color: #007bff;
-            --background-color: #f9f9f9;
-            --font-family: 'Arial, sans-serif';
-        }
-
-        body {
-            font-family: var(--font-family);
-            color: var(--primary-color);
-            background-color: var(--background-color);
-            margin: 0;
-            padding: 0;
-        }
-
-        header {
-            background-color: var(--accent-color);
-            padding: 1rem;
-        }
-
-        nav h1 {
-            display: inline;
-            color: white;
-        }
-
-        nav ul {
-            list-style: none;
-            float: right;
-        }
-
-        nav ul li {
-            display: inline;
-            margin-left: 2rem;
-        }
-
-        nav ul li a {
-            color: white;
-            text-decoration: none;
-        }
-
-        section {
-            padding: 2rem;
-        }
-
-        #projects .project-grid {
-            display: flex;
-            gap: 1rem;
-        }
-
-        footer {
-            background-color: var(--secondary-color);
-            color: white;
-            text-align: center;
-            padding: 1rem;
-            margin-top: 2rem;
-        }
-    </style>
 </head>
 <body>
-    <header>
-        <nav>
-            <h1><a href="#">Ankit Sharma</a></h1>
-            <ul>
-                <li><a href="#about">About</a></li>
-                <li><a href="#skills">Skills</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
+    <h1> Hi there, I'm <a href="https://www.linkedin.com/in/ankit-sharma-06427b1a1" target="_blank">Ankit Sharma</a>
+        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="4%" alt="Waving Hand"></h1>
     
-    <section id="about">
-        <h2>About Me</h2>
-        <p>Hi there, I'm Ankit Sharma, a Software Developer at Softage Information Technology.</p>
-    </section>
+    <a href="https://github.com/ankitvip" target="_blank">
+        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="max-width: 100%; display: inline-block;" alt="Hi Gif">
+    </a>
+
+    <ul>
+        <li>🌱 I’m a Software Developer at Softage Information Technology</li>
+        <li>💬 I am currently learning ReactJS & JavaScript</li>
+        <li>📫 How to reach me: <a href="mailto:71704@gmail.com">71704@gmail.com</a></li>
+        <li>🥅 2024 Goals: Contribute more to Open Source projects</li>
+    </ul>
+
+    <h1>Connect with me:</h1>
+    <a href="https://www.linkedin.com/in/ankit-sharma-06427b1a1/" target="_blank">
+        <img src="https://media.licdn.com/dms/image/C510BAQEzckjsySdXVw/company-logo_100_100/0?e=2159024400&v=beta&t=L0i_bLOuW3liVxqMGWTTLFcfA7g9j8VAWtg88UfR2b8" width="40" alt="LinkedIn Logo">
+    </a>
+    <a href="https://www.instagram.com/ankit_sharma_4318/" target="_blank">
+        <img src="https://store-images.s-microsoft.com/image/apps.58521.13510798887167234.713cc0e4-e4a7-4f7c-8cde-9c6a53872b1d.539a5fdf-76a3-486f-bb0f-d2dce82923cc?mode=scale&q=90&h=200&w=200&background=%230078D7" width="40" alt="Instagram Logo">
+    </a>
     
-    <section id="skills">
-        <h2>Skills</h2>
-        <ul>
-            <li>HTML, CSS, JavaScript, ReactJS</li>
-            <li>C#, ASP.NET MVC, ASP.NET Core, Web API</li>
-            <li>SQL, MySQL, Python</li>    
-        </ul>
-    </section>
-    
-    <section id="projects">
-        <h2>Projects</h2>
-        <div class="project-grid">
-            <!-- Add project cards here -->
-        </div>
-    </section>
-    
-    <section id="contact">
-        <h2>Contact</h2>
-        <p>📫 Email me at <a href="mailto:71704@gmail.com">71704@gmail.com</a></p>
-    </section>
-    
-    <footer>
-        <p>Connect with me on <a href="https://www.linkedin.com/in/ankit-sharma-06427b1a1/">LinkedIn</a> | <a href="https://github.com/ankitvip">GitHub</a></p>
-    </footer>
+    <br>
+
+    <h1>Languages and Tools:</h1>
+    <h2>Programming Languages:</h2>
+    <ul>
+        <li>HTML, CSS, JavaScript, ReactJS</li>
+        <li>C#, ASP.NET MVC, ASP.NET Core, Web API</li>
+        <li>SQL, MySQL, Python</li>    
+    </ul>
+
+    <h2>Tools:</h2>
+    <ul>
+        <li>Visual Studio 2019, Visual Studio 2022</li>
+        <li>Microsoft SQL Server 2019 & MySQL</li>
+        <li>VS Code</li> 
+        <li>IIS Server Manager</li>
+        <li>Spyder</li>    
+    </ul>
+
+    <h1>Coding Profile</h1>
+    <a href="https://www.hackerrank.com/as71704" target="_blank">
+        <img src="https://info.hackerrank.com/rs/487-WAY-049/images/Podcast-ChannelCover-Final.jpg" width="40" alt="HackerRank Logo">
+    </a>
+    <a href="https://auth.geeksforgeeks.org/edit-profile.php" target="_blank">
+        <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" width="40" alt="GeeksforGeeks Logo">
+    </a>
 </body>
 </html>
