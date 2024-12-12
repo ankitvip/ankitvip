@@ -41,4 +41,4 @@
 </a>
 <a href="https://auth.geeksforgeeks.org/edit-profile.php" target="_blank">
     <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" width="40" alt="GeeksforGeeks Profile">
-</a>correct all above code using best approach attrative profile template
+</a>
