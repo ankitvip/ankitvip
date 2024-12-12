@@ -42,3 +42,6 @@
 <a href="https://auth.geeksforgeeks.org/edit-profile.php" target="_blank">
     <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" width="40" alt="GeeksforGeeks Profile">
 </a>
+ <a href="https://leetcode.com/profile/" target="_blank">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Profile">
+            </a>
