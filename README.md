@@ -1,12 +1,14 @@
 <h1> Hi there, I'm <a href="https://www.linkedin.com/in/ankit-sharma-06427b1a1" target="_blank">Ankit Sharma</a> 
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="4%"></h1>
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5345b2854593049615eb11092b44d088a23da7816e05f830efcc35eeadf5efb5/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73687562682d313531"><img src="https://camo.githubusercontent.com/5345b2854593049615eb11092b44d088a23da7816e05f830efcc35eeadf5efb5/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73687562682d313531" data-canonical-src="https://komarev.com/ghpvc/?username=shubh-151" style="max-width: 100%;"></a>
+    <a href="https://komarev.com/ghpvc/?username=shubh-151" target="_blank">
+            <img src="https://komarev.com/ghpvc/?username=shubh-151" alt="Profile Views">
+        </a>
 <ul>
-    <li>🌱 I’m working as a Software Developer at Softage Information Technology.</li>
+    <li>🌱 I’m working as a Sr. Software Developer at Softage Information Technology.</li>
     <li>💬 I am currently learning ReactJS & JavaScript.</li>
     <li>📫 How to reach me: <strong>71704@gmail.com</strong></li>
-    <li>🥅 2024 Goals: Contribute more to open-source projects.</li>
+    <li>🥅 2025 Goals: Contribute more to open-source projects.</li>
 </ul>
 
 <h1>Connect with me:</h1>
