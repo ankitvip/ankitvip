@@ -14,7 +14,7 @@
 </ul>
 
 <h1>Connect with me:</h1>
-<div style="display: flex; gap: 15px; align-items: center;">
+<div style="display: flex; gap: 20 px; align-items: center;">
 <a href="https://www.linkedin.com/in/ankit-sharma-06427b1a1/" target="_blank">
     <img src="https://media.licdn.com/dms/image/C510BAQEzckjsySdXVw/company-logo_100_100/0?e=2159024400&v=beta&t=L0i_bLOuW3liVxqMGWTTLFcfA7g9j8VAWtg88UfR2b8" width="45" alt="LinkedIn Profile" />
 </a>
