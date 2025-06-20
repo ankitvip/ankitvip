@@ -44,7 +44,7 @@
 <h1>Coding Profiles:</h1>
 <div style="display: flex; gap: 15px; align-items: center;">
 <a href="https://www.hackerrank.com/as71704" target="_blank">
-    <img src="https://info.hackerrank.com/rs/487-WAY-049/images/Podcast-ChannelCover-Final.jpg" width="45" alt="HackerRank Profile" />
+    <img src="" />
 </a>
 
 <a href="https://auth.geeksforgeeks.org/edit-profile.php" target="_blank">
